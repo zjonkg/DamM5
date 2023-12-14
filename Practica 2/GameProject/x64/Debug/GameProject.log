@@ -1,0 +1,5 @@
+﻿  game.cpp
+D:\M5\GameProject\GameProject\game.cpp(48,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\M5\GameProject\GameProject\game.cpp(52,39): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\M5\GameProject\GameProject\game.cpp(189,38): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+  GameProject.vcxproj -> D:\M5\GameProject\x64\Debug\GameProject.exe
